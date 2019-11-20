@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 driver = webdriver.Chrome()
-driver.get("http://hiray666.mikecrm.com/kDpGeKw")
+driver.get("http://XXXXXXXXXXXXXXXXXXX")
 while 1==1:
     try:
         driver.find_element(By.CSS_SELECTOR, ".fbi_input").send_keys("Your name")
